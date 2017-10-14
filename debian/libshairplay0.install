@@ -1,0 +1,2 @@
+usr/lib/arm-linux-gnueabihf/*.so.* usr/lib/arm-linux-gnueabihf
+usr/lib/arm-linux-gnueabihf/*.so usr/lib/arm-linux-gnueabihf
