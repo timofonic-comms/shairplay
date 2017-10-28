@@ -6,11 +6,11 @@ Build-Depends: debhelper (>= 8.0.0)
 Homepage: https://github.com/cyr-ius/rpi23-gen-image
 
 Package: libshairplay0
-Architecture: all
+Architecture: any
 Depends: ${misc:Depends}
 Description: libshairplay0 package
 
 Package: libshairplay0-dev
-Architecture: all
+Architecture: any
 Depends: ${misc:Depends}
 Description: libshairplay  headers package
